@@ -1,4 +1,4 @@
-# My-Comprehensive-Project
+# Excel_Project 1:
 Using Power Query to combine & clean data in one go;
 Building an information finder using Lookup formulas;
 Calculating bonuses based on Business Rules;
